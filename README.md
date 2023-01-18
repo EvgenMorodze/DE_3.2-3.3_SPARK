@@ -1,3 +1,4 @@
-# EvgenMorodze-1T_DE_SPARK-practicum
+# DE_3.2/3.3_SPARK  
+
 Репозиторий с решениями практических задач по фреймворку Spark.
-Решения приведены в прилагаемом файле Jupyter Notebook.
+Решения приведены в прилагаемом файле Jupyter Notebook - ***3_2_Spark_MorozovEA.ipynb***  
